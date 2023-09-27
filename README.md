@@ -6,7 +6,7 @@ An application used to find the attribute closures, given a set of functional de
 
 Note: At the moment, my CSS skills are somewhat limited. Thus, I plan to enhance my CSS, and then revist this project to elevate it's UI
 
-![Demo](https://github.com/marwa-khafagy/closure-calculator/assets/99355272/89fa9365-08a6-4d7f-aea1-b60a4282f647)
+https://github.com/marwa-khafagy/closure-calculator/assets/99355272/89fa9365-08a6-4d7f-aea1-b60a4282f647
 
 
 
